@@ -1,0 +1,6 @@
+{
+  "name": "GlobalStock Intelligence",
+  "description": "Professional global stock market intelligence, swing trading technical & fundamental analytics, and risk decision-support platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
